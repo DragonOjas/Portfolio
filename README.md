@@ -1,7 +1,7 @@
 # portfolio link
 
 - Connected via vercel free hosting services
-- Source code by ojas
+- Source code by dragonojas
 - Vercel hosting by jolethen
 
 
